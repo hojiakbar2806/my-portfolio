@@ -3,7 +3,7 @@ name: My-portfolio backend deploy
 on:
   push:
     branches:
-      - backend
+      - main
 
 jobs:
   build:
