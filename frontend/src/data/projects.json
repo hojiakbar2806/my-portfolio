@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Project 1",
+    "description": "This is a sample project.",
+    "img": "https://lh3.googleusercontent.com/pw/AP1GczPOasnWRl6T-UawHGJs7hMU2ZcMCsP95pKAYKHJgTLRzNJs4Hsx8XHVMJHS9d25RxaPsmFxDho1Tnqe9HwcfMdBSiz2WKUtvxuja0P_usOo9rJJyHaLQm-zOvteoDdgYH003WxSOvgUkG31mRnXMWm5=w1326-h679-s-no-gm?authuser=0",
+    "techStack": ["React", "TailwindCSS", "NextJS"],
+    "demo": "https://example.com",
+    "github": "https://github.com"
+  },
+  {
+    "title": "Project 1",
+    "description": "This is a sample project.",
+    "img": "https://lh3.googleusercontent.com/pw/AP1GczPOasnWRl6T-UawHGJs7hMU2ZcMCsP95pKAYKHJgTLRzNJs4Hsx8XHVMJHS9d25RxaPsmFxDho1Tnqe9HwcfMdBSiz2WKUtvxuja0P_usOo9rJJyHaLQm-zOvteoDdgYH003WxSOvgUkG31mRnXMWm5=w1326-h679-s-no-gm?authuser=0",
+    "techStack": ["React", "TailwindCSS", "NextJS"],
+    "demo": "https://example.com",
+    "github": "https://github.com"
+  },
+  {
+    "title": "Project 2",
+    "description": "Another cool project.",
+    "img": "https://lh3.googleusercontent.com/pw/AP1GczPOasnWRl6T-UawHGJs7hMU2ZcMCsP95pKAYKHJgTLRzNJs4Hsx8XHVMJHS9d25RxaPsmFxDho1Tnqe9HwcfMdBSiz2WKUtvxuja0P_usOo9rJJyHaLQm-zOvteoDdgYH003WxSOvgUkG31mRnXMWm5=w1326-h679-s-no-gm?authuser=0",
+    "techStack": ["React", "TailwindCSS", "NextJS"],
+    "demo": "https://example.com",
+    "github": "https://github.com"
+  },
+  {
+    "title": "Project 2",
+    "description": "Another cool project.",
+    "img": "https://lh3.googleusercontent.com/pw/AP1GczPOasnWRl6T-UawHGJs7hMU2ZcMCsP95pKAYKHJgTLRzNJs4Hsx8XHVMJHS9d25RxaPsmFxDho1Tnqe9HwcfMdBSiz2WKUtvxuja0P_usOo9rJJyHaLQm-zOvteoDdgYH003WxSOvgUkG31mRnXMWm5=w1326-h679-s-no-gm?authuser=0",
+    "techStack": ["React", "TailwindCSS", "NextJS"],
+    "demo": "https://example.com",
+    "github": "https://github.com"
+  },
+  {
+    "title": "Project 2",
+    "description": "Another cool project.",
+    "img": "https://lh3.googleusercontent.com/pw/AP1GczPOasnWRl6T-UawHGJs7hMU2ZcMCsP95pKAYKHJgTLRzNJs4Hsx8XHVMJHS9d25RxaPsmFxDho1Tnqe9HwcfMdBSiz2WKUtvxuja0P_usOo9rJJyHaLQm-zOvteoDdgYH003WxSOvgUkG31mRnXMWm5=w1326-h679-s-no-gm?authuser=0",
+    "techStack": ["React", "TailwindCSS", "NextJS"],
+    "demo": "https://example.com",
+    "github": "https://github.com"
+  }
+]

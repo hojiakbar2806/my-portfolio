@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #3498db;
+}
+
+@layer base {
+  * {
+    @apply z-10 scrollbar-none;
+  }
+
+  body {
+    @apply antialiased w-full flex flex-col items-center justify-center bg-black;
+  }
+}
+
+@layer utilities {
+  .cursor {
+    @apply bg-primary pointer-events-none fixed top-0 -translate-x-20 left-0 z-50 w-[8px] h-[8px] rounded-full will-change-transform;
+  }
+  .cursor-border {
+    @apply border border-primary pointer-events-none fixed top-0 left-0 -translate-x-20 z-50 p-5 rounded-full will-change-transform transition-all duration-300;
+  }
+
+  .container {
+    @apply w-full max-w-[1440px] px-6 sm:px-20;
+  }
+
+  .cursor-border.focus {
+    @apply bg-primary p-2 border-transparent;
+  }
+}
+
+
+
+.animation{
+  animation: detail 1s ease-in-out infinite;
+}
+
+@keyframes detail {
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+  }
+}

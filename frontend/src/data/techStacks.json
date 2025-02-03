@@ -1,0 +1,10 @@
+[
+  {
+    "icon": "/tech/html.svg",
+    "language": "HTML"
+  },
+  {
+    "icon": "/tech/css.svg",
+    "language": "CSS"
+  }
+]
